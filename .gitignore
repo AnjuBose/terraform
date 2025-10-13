@@ -8,3 +8,5 @@ override.tf.json
 crash.log
 terraform_1.12.1_windows_386
 awscli
+terraform_1.12.1_windows_386
+*.pyd
