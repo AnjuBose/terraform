@@ -24,3 +24,8 @@ variable "ssh_cidr" {
   default = "0.0.0.0/0"
   description = "CIDR allowed to access SSH (for demo only; tighten in production)"
 }
+variable "vpc_id" {
+  description = "The ID of the vpc"
+  type = string
+
+}

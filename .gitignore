@@ -6,3 +6,6 @@
 override.tf
 override.tf.json
 crash.log
+awscli
+terraform_1.12.1_windows_386/
+*.pyd
